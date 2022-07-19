@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @Arun-102
-- I learned Python basics in the first 2 weeks.
-- In weeks 3 and 4, learned about all about cryptography through some videos.
-- Started writing code in Python with implementation of RSA algorithm.
+
